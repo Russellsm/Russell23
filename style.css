@@ -1,0 +1,36 @@
+body {
+    background-color: #fafcfc;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+th {
+    font-size: large;
+}
+
+button {
+    padding: 8px 20px;
+    border-radius: 8px;
+    border: none;
+    background-color: #bfee62;
+    font-size: small;
+    font-weight: bold;
+    border-spacing: 5px;
+}
+
+table {
+   margin-bottom: 15px;
+   margin-right: 10px;
+   padding: 10px;
+    
+}
+
+.table-p {
+    max-width: 15px;
+    word-wrap: break-word;
+}
